@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"prova_examenED","c":"empleat","l":"empleat()","u":"%3Cinit%3E()"},{"p":"prova_examenED","c":"empleat.Empleat","l":"Empleat(String, String, double)","u":"%3Cinit%3E(java.lang.String,java.lang.String,double)"},{"p":"prova_examenED","c":"empleat.Empleat","l":"pujadaSou(double)"}];updateSearchResults();
